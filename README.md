@@ -10,4 +10,5 @@ You can see data you wouldn't normally be able to such as:
 - the names of the items
 - and more
 # Example on a zombie:
-![Screenshot_2](https://github.com/Lilyp3892/Invsee-Mod-Fabric/assets/83565064/519b7950-3546-470c-b232-804380006aec)
+![Screenshot_3](https://github.com/Lilyp3892/Invsee-Mod-Fabric/assets/83565064/41ad7e0e-3121-4f29-adc3-ef4cf060ab42)
+
